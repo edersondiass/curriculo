@@ -1,0 +1,33 @@
+body {
+  background-color:black;
+}
+hr {
+  border-color: white;;
+
+}
+ h1 {
+   color:white;
+ }
+ h3 {
+   color: white;
+ }
+li {
+  color:white;
+}
+p {
+  color:white;
+}
+dt {
+  color: white;
+}
+img {
+
+  background-color:black;
+  border-radius: 50%;
+}
+
+.ed {
+
+  width:100px;
+  height: 100px;
+}
